@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <!-- 3D Isometric colorful cubes -->
+  <g transform="translate(10, 4)">
+    <polygon points="14,0 28,8 14,16 0,8" fill="#60a5fa" />
+    <polygon points="0,8 14,16 14,32 0,24" fill="#2563eb" />
+    <polygon points="14,16 28,8 28,24 14,32" fill="#1d4ed8" />
+  </g>
+  <g transform="translate(0, 18)">
+    <polygon points="12,0 24,7 12,14 0,7" fill="#34d399" />
+    <polygon points="0,7 12,14 12,28 0,21" fill="#059669" />
+    <polygon points="12,14 24,7 24,21 12,28" fill="#047857" />
+  </g>
+</svg>

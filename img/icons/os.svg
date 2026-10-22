@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <rect x="10" y="10" width="28" height="28" rx="5" fill="#1e293b" stroke="#3b82f6" stroke-width="2" />
+  <rect x="16" y="16" width="16" height="16" rx="3" fill="#3b82f6" />
+  <!-- Circuit pins -->
+  <line x1="16" y1="4" x2="16" y2="10" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="24" y1="4" x2="24" y2="10" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="32" y1="4" x2="32" y2="10" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="16" y1="38" x2="16" y2="44" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="24" y1="38" x2="24" y2="44" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="32" y1="38" x2="32" y2="44" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="4" y1="16" x2="10" y2="16" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="4" y1="24" x2="10" y2="24" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="4" y1="32" x2="10" y2="32" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="38" y1="16" x2="44" y2="16" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="38" y1="24" x2="44" y2="24" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+  <line x1="38" y1="32" x2="44" y2="32" stroke="#60a5fa" stroke-width="2.5" stroke-linecap="round" />
+</svg>

@@ -5105,40 +5105,50 @@ button {
   }
 
   .hero-editorial {
-    min-height: 84vh;
-    padding-top: 72px;
+    min-height: auto;
+    padding-top: 68px;
     padding-bottom: 0 !important;
-    justify-content: flex-end;
+    justify-content: flex-start;
+  }
+
+  .hero-editorial-bg {
+    background: radial-gradient(ellipse 80% 60% at 50% 30%, rgba(0, 113, 227, 0.05) 0%, transparent 70%);
+  }
+
+  .hero-editorial-bg::after {
+    display: none;
   }
 
   .hero-editorial-container {
     padding: 0 16px;
-    justify-content: flex-end;
-    height: 100%;
+    justify-content: flex-start;
+    align-items: center;
+    height: auto;
   }
 
   .hero-top-badge {
     font-size: 0.74rem;
-    margin-bottom: 8px;
+    margin-top: 6px;
+    margin-bottom: 10px;
     padding: 4px 12px;
     gap: 7px;
     max-width: 90%;
   }
 
   .hero-center-titles {
-    margin-bottom: -16px;
+    margin-bottom: -18px;
     padding: 0 8px;
     width: 100%;
   }
 
   .hero-greeting {
-    font-size: clamp(1.6rem, 6.8vw, 2.1rem);
+    font-size: clamp(1.65rem, 6.8vw, 2.15rem);
     line-height: 1.1;
     margin-bottom: 2px;
   }
 
   .hero-role-script {
-    font-size: clamp(1.7rem, 7.2vw, 2.3rem);
+    font-size: clamp(1.75rem, 7.2vw, 2.35rem);
     line-height: 1.15;
     min-height: 1.25em;
   }
@@ -5153,13 +5163,13 @@ button {
   }
 
   .hero-cutout-img {
-    height: clamp(300px, 44vh, 420px);
+    height: clamp(320px, 46vh, 430px);
     max-width: 90vw;
     margin-bottom: 0;
     vertical-align: bottom;
-    filter: drop-shadow(0 16px 36px rgba(15, 23, 42, 0.18));
-    mask-image: linear-gradient(to bottom, black 88%, transparent 100%);
-    -webkit-mask-image: linear-gradient(to bottom, black 88%, transparent 100%);
+    filter: drop-shadow(0 12px 26px rgba(15, 23, 42, 0.12));
+    mask-image: none;
+    -webkit-mask-image: none;
   }
 
   .hero-social-dock {
@@ -5268,25 +5278,30 @@ button {
   }
 
   .hero-editorial {
-    min-height: 80vh;
-    padding-top: 68px;
+    min-height: auto;
+    padding-top: 64px;
+  }
+
+  .hero-top-badge {
+    margin-top: 4px;
+    margin-bottom: 8px;
   }
 
   .hero-cutout-img {
-    height: clamp(280px, 42vh, 370px);
+    height: clamp(310px, 45vh, 400px);
     max-width: 92vw;
   }
 
   .hero-center-titles {
-    margin-bottom: -14px;
+    margin-bottom: -16px;
   }
 
   .hero-greeting {
-    font-size: clamp(1.5rem, 6.4vw, 1.95rem);
+    font-size: clamp(1.55rem, 6.6vw, 1.95rem);
   }
 
   .hero-role-script {
-    font-size: clamp(1.6rem, 6.8vw, 2.1rem);
+    font-size: clamp(1.65rem, 7vw, 2.15rem);
   }
 
   .cred-grid {

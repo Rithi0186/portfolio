@@ -686,16 +686,14 @@ function initHeroRoleTypewriter() {
   if (!textEl) return;
 
   const roles = [
-    "Software Developer",
     "Engineering Student",
+    "Tech Innovator",
     "Aspiring Software Engineer",
     "Java Developer",
-    "Full-Stack Developer",
     "Problem Solver",
     "AI & ML Enthusiast",
-    "Tech Innovator",
-    "Future Entrepreneur",
-    "Software Engineer"
+    "Student Developer",
+    "Future Entrepreneur"
   ];
 
   let roleIndex = 0;

@@ -1,6 +1,6 @@
 # Rithika S.S. — Developer Portfolio
 
-> **Software Engineer & Full-Stack Developer**  
+> **Engineering Student & Tech Innovator**  
 > *Electronics & Communication Engineering Student at Dr. Mahalingam College of Engineering and Technology (Dr. MCET, 2024–2028)*
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_Portfolio-0071e3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rithi0186.github.io/portfolio/)
